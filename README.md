@@ -2,6 +2,11 @@
 
 A Python package to generate RTL templates based on JSON configurations.
 
+## Installation 
+git clone https://github.com/srimanthtenneti/rtlmanager
+cd rtlmanager
+pip install .
+
 ## Usage
 
 ```python
