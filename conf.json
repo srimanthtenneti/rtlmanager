@@ -1,0 +1,20 @@
+{
+  "parameters" : {
+    "Width" : 32, 
+    "SIZE"  : 8
+  },
+  "module" : "test_block", 
+  "global" : {
+    "clock"  : ["clk", "clk1"], 
+    "reset"  : ["resetn"], 
+    "gating" : ["en"]  
+  }, 
+  "input" : {
+    "a" : "Width", 
+    "b" : 0
+  },
+    "output" : {
+    "x" : "Width", 
+    "y" : "SIZE"
+  }
+}
