@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='rtlmanager',                 # Package name
-    version='0.1.0',                   # Package version
+    version='0.1.1',                   # Package version
     description='A package to generate RTL templates based on JSON config',
     author='Srimanth Tenneti',
     author_email='oeuvre_00_sandmen@icloud.com',
